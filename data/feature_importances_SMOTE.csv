@@ -1,0 +1,273 @@
+Model,Feature,Importance
+Logistic Regression,Voice mail plan,1.0972727483674098
+Logistic Regression,Customer service calls,0.939140832184917
+Logistic Regression,International plan,0.8712492002864342
+Logistic Regression,Number vmail messages,0.6185988263556063
+Logistic Regression,State_RI,0.4445542004255446
+Logistic Regression,Total day minutes,0.42090232727148313
+Logistic Regression,Total day charge,0.42046735126411433
+Logistic Regression,State_VA,0.3485969200880212
+Logistic Regression,State_HI,0.331965328484342
+Logistic Regression,Total intl calls,0.30669420986659873
+Logistic Regression,State_IL,0.3016524191199792
+Logistic Regression,State_WI,0.2301357925704804
+Logistic Regression,State_MO,0.22460120880729662
+Logistic Regression,State_NC,0.20679621913076823
+Logistic Regression,State_AL,0.20570610834874872
+Logistic Regression,State_WY,0.18825776987976706
+Logistic Regression,State_IA,0.1837804398847976
+Logistic Regression,State_AZ,0.1773282739956349
+Logistic Regression,State_VT,0.16517669747070465
+Logistic Regression,State_ID,0.15970906681131744
+Logistic Regression,State_SD,0.15897162686546226
+Logistic Regression,State_IN,0.15690203395272484
+Logistic Regression,State_WV,0.15614719471071944
+Logistic Regression,Total eve minutes,0.15398548387937258
+Logistic Regression,State_KY,0.15146518024909975
+Logistic Regression,Total eve charge,0.15096311448755645
+Logistic Regression,State_NE,0.14199752225283124
+Logistic Regression,Total intl charge,0.13580423275890777
+Logistic Regression,State_TN,0.13079355293986153
+Logistic Regression,Total intl minutes,0.12688186762069237
+Logistic Regression,State_OR,0.11474581259309233
+Logistic Regression,State_AR,0.10977133535632255
+Logistic Regression,State_GA,0.10304115956532545
+Logistic Regression,State_NM,0.10071684433947185
+Logistic Regression,Total night minutes,0.09469224546706823
+Logistic Regression,Total night charge,0.09357308561475228
+Logistic Regression,State_MS,0.09238065405728871
+Logistic Regression,State_KS,0.08526731576229653
+Logistic Regression,State_SC,0.08410258814212547
+Logistic Regression,Account length,0.08082213915438823
+Logistic Regression,State_MN,0.07975335016214066
+Logistic Regression,State_CO,0.07965692328420637
+Logistic Regression,State_ND,0.07627415442394102
+Logistic Regression,State_MD,0.07576411748391342
+Logistic Regression,State_FL,0.07550354042535476
+Logistic Regression,State_DE,0.06923332403747635
+Logistic Regression,State_LA,0.06906485614022811
+Logistic Regression,State_DC,0.06830587052256398
+Logistic Regression,Total day calls,0.0587345803910121
+Logistic Regression,State_TX,0.05760575409214807
+Logistic Regression,State_MT,0.0572162933290045
+Logistic Regression,State_UT,0.05575037547243884
+Logistic Regression,Area code,0.0500312462432946
+Logistic Regression,State_NV,0.047058222440668304
+Logistic Regression,Total eve calls,0.032801991818101145
+Logistic Regression,State_PA,0.0317166267572979
+Logistic Regression,State_NY,0.029983584308589585
+Logistic Regression,State_NH,0.026211722918169443
+Logistic Regression,State_MA,0.024885921667281645
+Logistic Regression,State_OK,0.024047067222650265
+Logistic Regression,State_CA,0.02332645523423592
+Logistic Regression,State_ME,0.01750743550817806
+Logistic Regression,State_MI,0.010156526460945534
+Logistic Regression,State_NJ,0.009614400810337482
+Logistic Regression,State_OH,0.008258635359740911
+Logistic Regression,State_CT,0.008050345427403495
+Logistic Regression,Total night calls,0.006013469508347635
+Logistic Regression,State_WA,0.0048909468742742825
+Decision Tree,International plan,0.19995675148891245
+Decision Tree,Customer service calls,0.19929225125706743
+Decision Tree,Total day charge,0.1603999230080126
+Decision Tree,Voice mail plan,0.050038674809662134
+Decision Tree,Total eve minutes,0.04442124796311483
+Decision Tree,Total day minutes,0.0377617927751837
+Decision Tree,Number vmail messages,0.036459114256494375
+Decision Tree,Total intl minutes,0.0337764304794326
+Decision Tree,Total intl calls,0.025180386403511074
+Decision Tree,Account length,0.02487044795629834
+Decision Tree,Total eve charge,0.02486972405230321
+Decision Tree,Total day calls,0.017660143284642833
+Decision Tree,Total night charge,0.016814643242413333
+Decision Tree,Total night calls,0.016040768636205554
+Decision Tree,Total intl charge,0.014897371971145507
+Decision Tree,Area code,0.014680252136281593
+Decision Tree,Total eve calls,0.011105871273535479
+Decision Tree,Total night minutes,0.01101823392222311
+Decision Tree,State_ME,0.006736826481455665
+Decision Tree,State_TX,0.006289466289461314
+Decision Tree,State_MS,0.005522362105063025
+Decision Tree,State_MI,0.0037823521783512323
+Decision Tree,State_OH,0.0033041237232481167
+Decision Tree,State_VA,0.00327860360739081
+Decision Tree,State_SC,0.00271947940898451
+Decision Tree,State_DC,0.0024773689806054516
+Decision Tree,State_NY,0.002283755362208728
+Decision Tree,State_NE,0.00227067421786661
+Decision Tree,State_NJ,0.001821550341686483
+Decision Tree,State_IL,0.0016967283671881874
+Decision Tree,State_ND,0.001685822117595468
+Decision Tree,State_CO,0.0016086079616239603
+Decision Tree,State_UT,0.0013550702853724907
+Decision Tree,State_NM,0.0012725047779800895
+Decision Tree,State_NC,0.0012462677789646165
+Decision Tree,State_CT,0.0012286437992592833
+Decision Tree,State_AZ,0.0012138204645511692
+Decision Tree,State_PA,0.0010034372461183608
+Decision Tree,State_MT,0.0009290381646402124
+Decision Tree,State_VT,0.0008496417344019934
+Decision Tree,State_MO,0.0008255897742450576
+Decision Tree,State_NH,0.0007873691880108338
+Decision Tree,State_KS,0.0007682177348551362
+Decision Tree,State_WV,0.000765654160656508
+Decision Tree,State_WA,0.00046488373388832964
+Decision Tree,State_CA,0.00039557561695285437
+Decision Tree,State_WY,0.00038173771045069203
+Decision Tree,State_GA,0.00035043606445758166
+Decision Tree,State_MA,0.00033922211039494424
+Decision Tree,State_OK,0.0002947910118767301
+Decision Tree,State_LA,0.00021498840638437013
+Decision Tree,State_IN,0.00020284807378748778
+Decision Tree,State_MN,0.0001683962060478737
+Decision Tree,State_AL,0.0001223427312794677
+Decision Tree,State_MD,9.777316625429822e-05
+Decision Tree,State_IA,0.0
+Decision Tree,State_DE,0.0
+Decision Tree,State_FL,0.0
+Decision Tree,State_AR,0.0
+Decision Tree,State_ID,0.0
+Decision Tree,State_KY,0.0
+Decision Tree,State_HI,0.0
+Decision Tree,State_NV,0.0
+Decision Tree,State_OR,0.0
+Decision Tree,State_TN,0.0
+Decision Tree,State_SD,0.0
+Decision Tree,State_RI,0.0
+Decision Tree,State_WI,0.0
+Random Forest,Customer service calls,0.14457028827811913
+Random Forest,International plan,0.12674215796381222
+Random Forest,Total day minutes,0.09313656547762024
+Random Forest,Total day charge,0.08223947604241343
+Random Forest,Voice mail plan,0.05240464140142843
+Random Forest,Area code,0.045640632170237276
+Random Forest,Total intl calls,0.04409119709467246
+Random Forest,Total eve minutes,0.03911669350216587
+Random Forest,Total eve charge,0.03898758290000055
+Random Forest,Number vmail messages,0.03267846583357271
+Random Forest,Total intl minutes,0.030760890720920496
+Random Forest,Total intl charge,0.03057950964584542
+Random Forest,Total night minutes,0.030574648625759423
+Random Forest,Total night charge,0.0297585710248736
+Random Forest,Account length,0.025620850800118382
+Random Forest,Total eve calls,0.02547230151755356
+Random Forest,Total night calls,0.025231566760854994
+Random Forest,Total day calls,0.023245246716662723
+Random Forest,State_ME,0.004977533913411515
+Random Forest,State_MS,0.004806995039037123
+Random Forest,State_TX,0.0034924915855549543
+Random Forest,State_MI,0.002798221180786504
+Random Forest,State_OH,0.0026053337864709735
+Random Forest,State_SC,0.0024470215186470144
+Random Forest,State_VA,0.002352670336934366
+Random Forest,State_DC,0.0020687337178599686
+Random Forest,State_NJ,0.0020339821662917067
+Random Forest,State_CA,0.0020293511479654485
+Random Forest,State_NY,0.002024801965391298
+Random Forest,State_MT,0.0019887777005020016
+Random Forest,State_ND,0.0017569040914070673
+Random Forest,State_NE,0.001707909828427815
+Random Forest,State_CT,0.0016663645796647995
+Random Forest,State_IN,0.0016035324673762963
+Random Forest,State_RI,0.0015338436912473948
+Random Forest,State_NH,0.0015272226692556365
+Random Forest,State_OK,0.0015176662300949448
+Random Forest,State_NC,0.0015065643209519596
+Random Forest,State_IL,0.0014746217949752366
+Random Forest,State_UT,0.001472303079914923
+Random Forest,State_CO,0.0014405501169412543
+Random Forest,State_WV,0.0014401697837808283
+Random Forest,State_MD,0.0014324649734877507
+Random Forest,State_NM,0.0014120463633054711
+Random Forest,State_DE,0.0013935118857844278
+Random Forest,State_FL,0.0013547579411303573
+Random Forest,State_MA,0.0012516506414307607
+Random Forest,State_OR,0.0012367620642182828
+Random Forest,State_WY,0.0012230916593551043
+Random Forest,State_ID,0.0012167787134693322
+Random Forest,State_WI,0.0012065696817180288
+Random Forest,State_MN,0.001205571362451576
+Random Forest,State_VT,0.0011844766533296192
+Random Forest,State_PA,0.0011836008739731798
+Random Forest,State_AZ,0.0010917657009561496
+Random Forest,State_AL,0.0010184192590981006
+Random Forest,State_KS,0.0009849174928512866
+Random Forest,State_LA,0.0009445727353030502
+Random Forest,State_WA,0.0009325467373240262
+Random Forest,State_NV,0.0009258041236699694
+Random Forest,State_GA,0.0008783237107036401
+Random Forest,State_HI,0.0008557849601173742
+Random Forest,State_SD,0.0008490727087308931
+Random Forest,State_IA,0.0007804724288617474
+Random Forest,State_AR,0.0006940350540448463
+Random Forest,State_MO,0.0006038686484631662
+Random Forest,State_KY,0.0005803614541531873
+Random Forest,State_TN,0.000433918982546794
+XGBoost,International plan,0.2099640965461731
+XGBoost,Voice mail plan,0.09128871560096741
+XGBoost,Customer service calls,0.06274967640638351
+XGBoost,State_ME,0.041503388434648514
+XGBoost,Area code,0.037007104605436325
+XGBoost,Total day minutes,0.03596383333206177
+XGBoost,Total eve charge,0.03426783159375191
+XGBoost,State_NJ,0.031759005039930344
+XGBoost,State_MS,0.03028380684554577
+XGBoost,State_FL,0.024251455441117287
+XGBoost,Total intl calls,0.023497769609093666
+XGBoost,State_MI,0.021550245583057404
+XGBoost,State_GA,0.01974472403526306
+XGBoost,State_OH,0.019429130479693413
+XGBoost,State_NE,0.016748400405049324
+XGBoost,Total intl minutes,0.014519727788865566
+XGBoost,Total eve minutes,0.014035339467227459
+XGBoost,State_TX,0.01343946997076273
+XGBoost,State_SC,0.013108217157423496
+XGBoost,State_WY,0.01290036179125309
+XGBoost,State_UT,0.011869683861732483
+XGBoost,State_MA,0.011838363483548164
+XGBoost,Total intl charge,0.011364963836967945
+XGBoost,State_NH,0.01107288058847189
+XGBoost,Total day charge,0.010329212062060833
+XGBoost,State_VT,0.010241882875561714
+XGBoost,State_MD,0.010224219411611557
+XGBoost,Total night minutes,0.009465813636779785
+XGBoost,State_ND,0.008888325653970242
+XGBoost,State_DC,0.008273204788565636
+XGBoost,State_HI,0.007574757561087608
+XGBoost,State_CT,0.006668571848422289
+XGBoost,State_CO,0.006482451222836971
+XGBoost,State_VA,0.006462374702095985
+XGBoost,State_WI,0.006151089910417795
+XGBoost,Number vmail messages,0.005867956206202507
+XGBoost,Account length,0.005730294622480869
+XGBoost,State_ID,0.005705811083316803
+XGBoost,Total night charge,0.005619478411972523
+XGBoost,State_CA,0.005584627389907837
+XGBoost,Total night calls,0.005410405341535807
+XGBoost,State_IA,0.005237034521996975
+XGBoost,State_NY,0.005215984769165516
+XGBoost,State_RI,0.005025270860642195
+XGBoost,Total day calls,0.0046316408552229404
+XGBoost,State_MT,0.0045801992528140545
+XGBoost,State_AL,0.004484814126044512
+XGBoost,State_SD,0.004319280385971069
+XGBoost,State_NC,0.0042143939062952995
+XGBoost,State_MN,0.0035443983506411314
+XGBoost,State_MO,0.0035401531495153904
+XGBoost,Total eve calls,0.003449523588642478
+XGBoost,State_IL,0.003294288879260421
+XGBoost,State_KY,0.003038611263036728
+XGBoost,State_WV,0.0027242705691605806
+XGBoost,State_KS,0.0019580654334276915
+XGBoost,State_NM,0.0019033043645322323
+XGBoost,State_AR,0.0
+XGBoost,State_AZ,0.0
+XGBoost,State_DE,0.0
+XGBoost,State_LA,0.0
+XGBoost,State_IN,0.0
+XGBoost,State_NV,0.0
+XGBoost,State_PA,0.0
+XGBoost,State_TN,0.0
+XGBoost,State_OK,0.0
+XGBoost,State_OR,0.0
+XGBoost,State_WA,0.0

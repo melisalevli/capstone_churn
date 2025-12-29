@@ -60,12 +60,12 @@ This project addresses the **class imbalance problem** in telecom customer churn
 ---
 
 **Project Structure**
-preprocessing/ # Data cleaning, encoding, scaling
-resampling/ # SMOTE, ROS, ADASYN, etc.
-models/ # ML model implementations
-tuning/ # Optuna hyperparameter tuning
-evaluation/ # Metrics, ROC & PR curves
-models_saved/ # Serialized final models (.pkl)
+- preprocessing/ # Data cleaning, encoding, scaling
+- resampling/ # SMOTE, ROS, ADASYN, etc.
+- models/ # ML model implementations
+- tuning/ # Optuna hyperparameter tuning
+- evaluation/ # Metrics, ROC & PR curves
+- models_saved/ # Serialized final models (.pkl)
 
 ---
 
